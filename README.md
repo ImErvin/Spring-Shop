@@ -1,5 +1,5 @@
 # Spring-Shop
-An online shop developed in Spring Boot and MySQL
+An online shop developed in Spring MVC and MySQL
 
 This application was developed as part of my ServerSide RAD module in Software Development year 3.
 <hr/>
